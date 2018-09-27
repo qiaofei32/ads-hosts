@@ -1,0 +1,22 @@
+
+127.0.0.1 lives.l.qq.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 data.video.qiyi.com
+127.0.0.1 img.yuyue007.cn
+127.0.0.1 changyan.itc.cn
+127.0.0.1 cdn.aiclk.com
+127.0.0.1 img3.eguu8.com
+127.0.0.1 crxmouse.com
+127.0.0.1 mob.preforge.com
+127.0.0.1 jump.yuyue006.cn
+
+127.0.0.1 ben.crxmouse.com
+127.0.0.1 e.gsycdb.com
+
+127.0.0.1 data.video.iqiyi.com
+127.0.0.1 cache.video.iqiyi.com
+127.0.0.1 baiducdnct.inter.iqiyi.com
+
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 log.voicecloud.cn
