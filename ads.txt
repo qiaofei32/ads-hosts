@@ -1,4 +1,5 @@
 
+127.0.0.1 livew.l.qq.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 data.video.qiyi.com
