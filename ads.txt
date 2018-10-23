@@ -1,3 +1,5 @@
+127.0.0.1 qbwup.imtt.qq.com
+127.0.0.1 report.url.cn
 
 127.0.0.1 livew.l.qq.com
 127.0.0.1 lives.l.qq.com
